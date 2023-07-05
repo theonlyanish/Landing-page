@@ -1,4 +1,4 @@
-# Landing Page Project
+# Landing Page Project - Practice
 
 ## Table of Contents
 
